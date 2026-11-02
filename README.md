@@ -55,3 +55,7 @@ The project hardware demonstration and final STM32 code have been completed and 
 
 ## Author
 Developed as an academic mini project.
+
+## Project Images
+pj1.png
+pj2.png
