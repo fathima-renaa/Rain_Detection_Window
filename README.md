@@ -36,8 +36,11 @@ When the sensor detects dry conditions continuously for 10 seconds, the window o
 
 ## Microcontroller Pin Connections
 Rain sensor digital output - PA0 
+
 White LED - PB0 
+
 Red LED - PB1 
+
 Servo signal - TIM2 Channel 2 output pin 
 
 **Note:** Confirm the servo signal pin from the actual CubeIDE/CubeMX configuration before connecting it.
