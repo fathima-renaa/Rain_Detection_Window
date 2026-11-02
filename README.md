@@ -45,6 +45,11 @@ Servo signal - TIM2 Channel 2 output pin
 
 **Note:** Confirm the servo signal pin from the actual CubeIDE/CubeMX configuration before connecting it.
 
+## Project Status
+
+The project was implemented using the STM32F103C8T6 Blue Pill
+and demonstrated using a house model.
+
 ## Future Improvements
 - Add a manual override switch.
 - Add Wi-Fi or mobile notifications.
