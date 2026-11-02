@@ -57,4 +57,4 @@ Developed as an academic mini project.
 
 ![Project Image 1](pj1.png)
 
-![Project Image 2](pj2.png)
+
