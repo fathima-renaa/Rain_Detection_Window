@@ -54,5 +54,7 @@ Servo signal - TIM2 Channel 2 output pin
 Developed as an academic mini project.
 
 ## Project Images
-pj1.png
-pj2.png
+
+![Project Image 1](pj1.png)
+
+![Project Image 2](pj2.png)
